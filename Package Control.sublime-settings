@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Base Encoder",
+		"BracketHighlighter",
+		"ColorPick",
+		"Colorsublime",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"LaTeX Word Count",
+		"Material Theme",
+		"Notes",
+		"Origami",
+		"Package Control",
+		"Phpcs",
+		"Sass",
+		"SideBarEnhancements",
+		"Status Bar File Size",
+		"SublimeCodeIntel"
+	]
+}
